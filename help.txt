@@ -1,9 +1,0 @@
-Use of Linux man pages was most helpful in the project. All information was
-neatly described in the man pages. In addition to that, some help was taken from
-'C programming language' book by Kernighan and Ritchie. Internet was sometimes
-helpful to know some new concepts like stat function which is used to get the
-file size. Websites like www.stackoverflow.com are good. The main aim of using
-buffer is that the number of times to access the main memory is reduced by using
-it. Accessing main memory for reading small number of bytes is heavy operation.
-So loading the data from the main memory to the buffer in the form of chunks is
-quite helpful and cost low.
