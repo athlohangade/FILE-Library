@@ -1,5 +1,5 @@
 # FILE Library
-The project is implementation of file functions like fopen, fread as an interface for file handling in C. These functions are implemented using the concept of buffer for efficient working.
+The project is implementation of file functions like fopen, fread, etc. as an interface for file handling in C. These functions are implemented using the concept of buffer for efficient working.
 
 ## Usage
 Different functions implemented in the project can be used directly by adding *file.c* and *file.h* in the working directory. Then include *file.h* in the main program and make the calls to the function defined in *file.h* as required.
@@ -46,3 +46,6 @@ The buffer concept is used in the project. Buffer of size 1024 bytes is used.
 
 ## Authors
 [Atharva Lohangade](https://github.com/athlohangade)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
